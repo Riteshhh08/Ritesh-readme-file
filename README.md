@@ -1,7 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" width="100%" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Ritesh Vishwakarma</h1>
 <h3 align="center">Frontend Developer | Cloud & DevOps Enthusiast</h3>
 
 ---
+<p align="center">
+  <img src="https://lottie.host/embed/977f4cab-6b6e-4cdc-af28-845deb77ed9e/uF5rm8X45U.lottie" width="100%" />
+</p>
+
 
 ### 🚀 About Me
 - 💻 I’m currently working on **Frontend Development**
@@ -64,13 +74,4 @@ Frontend by day, AWS & DevOps learner by night ☁️🚀
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ritesh-vishwakarma/ritesh-vishwakarma/main/banner.gif" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Ritesh Vishwakarma</h1>
-<h3 align="center">Frontend Developer | Cloud & DevOps Enthusiast</h3>
 
