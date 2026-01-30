@@ -1,17 +1,21 @@
+
+<h1 align="center">Hi 👋, I'm Ritesh Vishwakarma</h1>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" width="100%" />
 </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Ritesh Vishwakarma</h1>
 <h3 align="center">Frontend Developer | Cloud & DevOps Enthusiast</h3>
+
+
 
 ---
 <p align="center">
-  <img src="https://lottie.host/embed/977f4cab-6b6e-4cdc-af28-845deb77ed9e/uF5rm8X45U.lottie" width="100%" />
+  <img src="https://github.com/Riteshhh08/skrilllllex/blob/main/Creative%203D%20Visual%20Animation%20-%20Website%20Development.gif" width="50%" />
 </p>
-
 
 ### 🚀 About Me
 - 💻 I’m currently working on **Frontend Development**
@@ -34,8 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Riteshhh08&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Riteshhh08&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshhh08&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 
 ---
@@ -74,4 +76,6 @@ Frontend by day, AWS & DevOps learner by night ☁️🚀
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
