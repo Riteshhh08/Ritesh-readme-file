@@ -11,18 +11,12 @@
 
 ---
 
+
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=
-  html,css,js,ts,react,
-  nodejs,express,
-  java,
-  mysql,mongodb,
-  git,github,linux,
-  aws,docker,
-  vscode,figma
-  " />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,mysql,mongodb,git,github,linux,aws,docker,vscode,figma" />
 </p>
+
 
 
 ---
