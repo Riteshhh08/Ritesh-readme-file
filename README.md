@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritesh Vishwakarma</h1>
+<h3 align="center">Frontend Developer | Cloud & DevOps Enthusiast</h3>
 
-<!--
-**Riteshhh08/Riteshhh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I’m currently working on **Frontend Development**
+- ☁️ Learning **AWS & DevOps** to understand scalable systems
+- 🧠 Improving **system design fundamentals**
+- 💬 Ask me about **JavaScript, React, Frontend UI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,sql,git,github,linux,aws" />
+</p>
+
+---
+
+### 🤝 I’m looking for help with
+- System design fundamentals  
+- Cloud architecture basics  
+
+---
+
+### ⚡ Fun fact
+Frontend by day, AWS & DevOps learner by night ☁️🚀
+
+---
+
+### 📫 How to reach me
+📧 **riteshvishwakarma.work@gmail.com**
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
