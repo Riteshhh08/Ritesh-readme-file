@@ -36,7 +36,15 @@ Frontend by day, AWS & DevOps learner by night ☁️🚀
 
 ### 🔗 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/ritesh-vishwakarma08/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/RiteshIn008" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/riteshhh_08" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
