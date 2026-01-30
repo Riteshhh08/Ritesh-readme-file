@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Riteshhh08/skrilllllex/blob/main/Creative%203D%20Visual%20Animation%20-%20Website%20Development.gif" width="50%" />
+  <img src="https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif" width="100%" />
 </p>
 
 ### 🚀 About Me
