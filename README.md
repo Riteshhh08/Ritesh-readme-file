@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/naveedamir484/naveedamir484/blob/main/images/cyber_code.gif" width="100%" />
+  <img src="https://github.com/Riteshhh08/3d-motion-web-page/blob/main/cybercode.gif" width="100%" />
 </p>
 
 ---
