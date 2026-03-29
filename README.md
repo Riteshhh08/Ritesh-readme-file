@@ -9,10 +9,10 @@
 ---
 
 ### 🚀 About Me
-👋 Hi, I’m @RiteshVishwakarma. 
-👀 Working as DevOps Engineer.
-🌱 I’m currently learning Devops tools which include Ansible , Docker, Cloud.
-📫 How to reach me Riteshvishwakarma.work@gmail.com
+-👋 Hi, I’m @RiteshVishwakarma. 
+-👀 Working as DevOps Engineer.
+-🌱 I’m currently learning Devops tools which include Ansible , Docker, Cloud.
+-📫 How to reach me Riteshvishwakarma.work@gmail.com
 
 ---
 
