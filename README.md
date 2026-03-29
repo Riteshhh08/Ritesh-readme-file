@@ -8,20 +8,11 @@
 
 ---
 
-<h3 align="center">Frontend Developer | Cloud & DevOps Enthusiast</h3>
-
-
-
----
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif" width="100%" />
-</p>
-
 ### 🚀 About Me
-- 💻 I’m currently working on **Frontend Development**
-- ☁️ Learning **AWS & DevOps** to understand scalable systems
-- 🧠 Improving **system design fundamentals**
-- 💬 Ask me about **JavaScript, React, Frontend UI**
+👋 Hi, I’m @RiteshVishwakarma. 
+👀 Working as DevOps Engineer.
+🌱 I’m currently learning Devops tools which include Ansible , Docker, Cloud.
+📫 How to reach me Riteshvishwakarma.work@gmail.com
 
 ---
 
